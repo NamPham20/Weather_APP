@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="cityname">CityName</string>
+    <string name="_25_8451">25℃</string>
+    <string name="statusweather">StatusWeather</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="now">Now</string>
+    <string name="producted_by_pham_phuong_nam">Product of Pham Phuong Nam</string>
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="weather">Weather</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="city_name">City Name</string>
+    <string name="country_name">Country_name</string>
+    <string name="cityname_countryname">cityName,countryName</string>
+    <string name="h_20_l_10">H:20-L:10℃</string>
+    <string name="ha_noi_vietnam">Ha Noi, VietNam</string>
+    <string name="cloudy">Cloudy</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="146dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/rounded_corner_with_border"
+    android:paddingVertical="14dp"
+    android:layout_marginEnd="10dp"
+    android:paddingHorizontal="8dp"
+    >
+    <TextView
+        android:id="@+id/tvDayName"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/now"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        />
+    <ImageView
+        android:id="@+id/imvWeatherIcon"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/weather_icon"
+        android:layout_weight="1"
+        />
+
+    <TextView
+
+        android:layout_weight="1"
+        android:id="@+id/tvTemValue"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_25_8451"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>
